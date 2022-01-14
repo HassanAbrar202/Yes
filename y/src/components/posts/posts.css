@@ -1,0 +1,17 @@
+.yelo
+{
+    margin-top: 60px;
+}
+.card-img-top
+{
+    width: 18rem;
+    display: grid;
+    background-color: grey; 
+}
+@media(width:990)
+{
+    .yelo
+    {
+        
+    }
+}

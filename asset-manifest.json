@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Yes/static/css/main.ccb362c0.css",
+    "main.js": "/Yes/static/js/main.63e17a84.js",
+    "static/media/Yes_certifcate.jpg": "/Yes/static/media/Yes_certifcate.ad98f0be33c83c7c9f14.jpg",
+    "index.html": "/Yes/index.html",
+    "main.ccb362c0.css.map": "/Yes/static/css/main.ccb362c0.css.map",
+    "main.63e17a84.js.map": "/Yes/static/js/main.63e17a84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccb362c0.css",
+    "static/js/main.63e17a84.js"
+  ]
+}
